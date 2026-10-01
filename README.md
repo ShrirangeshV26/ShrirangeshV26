@@ -14,7 +14,7 @@ I'm looking for co-op and full-time roles in cloud, data, and AI engineering, an
 
 - **[FinSage](https://github.com/ShrirangeshV26/finsage-rangesh)** ([live demo](https://teamfinsage.vercel.app)): team project that generates 15–20 page financial research reports in about 7 minutes, using a four-agent pipeline on Snowflake Cortex, dbt, Airflow, and SEC filing RAG on AWS Bedrock
 - **AWS cloud infrastructure** ([Web app](https://github.com/VShrirangeshcloud26/Webapp), [Terraform](https://github.com/VShrirangeshcloud26/tf-infra), [Serverless](https://github.com/VShrirangeshcloud26/serverless)): multi-account AWS deployment with Terraform, GitHub Actions CI/CD (29 automated tests), and CloudWatch monitoring with 9 custom metrics
-- **FinFlow**: full-stack personal finance app with React, TypeScript, Node.js, MongoDB, and OpenAI-powered features
+- **[FinFlow](https://github.com/ParneshAdawadkar/Finflow)**: team project, a full-stack student finance app with React, Node.js, Express, MongoDB, Google OAuth, and an OpenAI-powered chatbot
 
 #### Quick facts
 
